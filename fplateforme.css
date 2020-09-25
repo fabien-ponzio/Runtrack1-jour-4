@@ -1,0 +1,93 @@
+.pic {
+width:120px;
+height:120px;
+align-content: center;
+border: solid;
+background-color: white;
+}
+
+.pic:hover {
+        /* width: 250px;
+        height: 250px;
+     border-radius: 200px; */
+     transform: scale(1.3);
+    } 
+
+body {background-color: #88c1d0;}
+
+.vidCenter {text-align: center;
+margin: 20px 0;
+}
+
+.fpic {display: flex;
+flex-wrap: wrap;}
+
+.ftexte {font-family: 'Roboto', sans-serif;
+border: solid;
+background-color: #ffca4b;
+padding-bottom: 10;
+padding-left: 10;
+padding-right: 10;}
+
+.first { display: flex; padding: 0 20px;}
+
+.ftitre {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: solid;
+    border-radius: 20px 20px;
+    background-color: #ffca4b;
+}
+
+.ftexte1 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;  
+    font-size: 150 150;
+}
+
+.center-image {
+text-align: center;
+}
+.fexte { font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.fideo { display: flex;
+    flex-wrap: wrap;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.fampoule1 {border: solid;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:  #ffca4b
+}
+
+.fampoule2 {
+    border: solid;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:  #ffca4b
+
+}
+
+.fampoule3 {
+    border: solid;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    background-color:  #ffca4b
+   
+}
+
+.fitre1 {
+    border: solid;
+    border-radius: 20px;
+    background-color:  #ffca4b; 
+}
+qui sommes nous = change de police, cadre, border radius 
+aligner image et video
